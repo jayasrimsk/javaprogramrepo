@@ -5,7 +5,7 @@ public class AddThreeNumbers {
 
         hdhdidio13123123123123123123123123123123
 
-       hdhdidiodd123
+      adc
 
     }
 }
