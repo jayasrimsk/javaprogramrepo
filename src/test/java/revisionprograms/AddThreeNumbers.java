@@ -2,7 +2,11 @@ package revisionprograms;
 
 public class AddThreeNumbers {
     public void newMethod{
-       hdhdidio13123123123123123123123123123123
+
+        hdhdidio13123123123123123123123123123123
+
+       hdhdidiodd
+
     }
 }
 
